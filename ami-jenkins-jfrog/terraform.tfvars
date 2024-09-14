@@ -6,7 +6,7 @@
  jfrog_server = false
  profile = "default"
  //jenkins_ami = "ami-01bcc841d18872d85"
- jenkins_ami = "ami-01bcc841d18872d85" #myprivate ami
+ jenkins_ami = "ami-0d14dc29ae5c7ac8d" #myprivate ami
  jfrog_ami   = "ami-01b01ab3a35d97dde"
  role_name = "jenkinsAdminRoleAmi1"
  qa_uat_sg_name = "qa-uat-security-group"
